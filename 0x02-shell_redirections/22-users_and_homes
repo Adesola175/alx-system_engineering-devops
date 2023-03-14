@@ -1,0 +1,2 @@
+#!/bin/bash
+cat -d":" -£ 1,6 /etc/passwd | sort
